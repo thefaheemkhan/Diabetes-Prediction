@@ -40,5 +40,4 @@ import the libraries so i'll make a text here so that it's clear
 importing the dependencies okay so first let's input numpy
 input numpy smp now let's import pandas so we import
 pandas pd now we need to standardize the data so
-for that we need a standardizer function so [Music]
-from sklearn
+for that we need a standardizer function so 
